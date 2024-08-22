@@ -20,3 +20,13 @@
 Выполнение тестового задания не гарантирует приглашение на собеседование, т.к. кроме качества выполнения тестового задания, оцениваются и другие показатели вас как кандидата.
 
 Мы не даем комментариев по результатам тестового задания.
+
+ * This class, TsReturnOperation, is responsible for handling notifications related to returns in a web service.
+ * It processes incoming requests, validates input data, retrieves necessary entities (reseller, client, employees),
+ * prepares notification templates, and sends email and SMS notifications based on the type of notification (new or change).
+ * 
+ * The refactoring took approximately 1-2 hours, focusing on improving code readability, maintainability,
+ * and error handling by encapsulating repetitive logic into separate methods and enhancing data validation.
+ * 
+ * I would love to collaborate with the original author to discuss best practices in coding and explore further
+ * improvements, ensuring the codebase remains clean and efficient.
